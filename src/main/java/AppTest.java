@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
  *
  * "How to setup iOS automation with XCUITest WebDriverAgent Runner"
  *
- *
+ * https://www.youtube.com/watch?v=ySglJIrDVMQ&t=26s
  */
 public class AppTest {
     static WebDriver wd;
