@@ -35,7 +35,6 @@ public class AppTest {
 
         wd = new IOSDriver(new URL("http://0.0.0.0:4723/wd/hub"),capabilities);
         wd.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
-
         Thread.sleep(10000);
     }
 
